@@ -1,5 +1,6 @@
 # ETL-Pipeline-Using-Data-Factory
 Used the data analytics stack to extract, transform, and load the data using Data Factory.
+
 Problem Statement:
 As a Data Engineer, you’ve been asked to access the services that can help with ETL of data in
 the cloud data storage to enable analytics through Synapse. In this POC, we will be collecting
